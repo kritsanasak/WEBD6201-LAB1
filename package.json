@@ -1,0 +1,14 @@
+{
+  "name": "WEBD6201-Lab1",
+  "version": "1.0.0",
+  "description": "\"WEB6201-Lab1 DOM Manipulation\"",
+  "main": "app.js",
+  "author": "\"Kritsanasak Poungchan\"",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
